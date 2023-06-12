@@ -1,0 +1,13 @@
+C:\Users\fekel\source\repos\WebAPI.Repository\bin\Debug\netcoreapp2.1\WebAPI.Repository.deps.json
+C:\Users\fekel\source\repos\WebAPI.Repository\bin\Debug\netcoreapp2.1\WebAPI.Repository.dll
+C:\Users\fekel\source\repos\WebAPI.Repository\bin\Debug\netcoreapp2.1\WebAPI.Repository.pdb
+C:\Users\fekel\source\repos\WebAPI.Repository\bin\Debug\netcoreapp2.1\WebAPI.Dominio.dll
+C:\Users\fekel\source\repos\WebAPI.Repository\bin\Debug\netcoreapp2.1\WebAPI.Dominio.pdb
+C:\Users\fekel\source\repos\WebAPI.Repository\obj\Debug\netcoreapp2.1\WebAPI.Repository.csproj.AssemblyReference.cache
+C:\Users\fekel\source\repos\WebAPI.Repository\obj\Debug\netcoreapp2.1\WebAPI.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fekel\source\repos\WebAPI.Repository\obj\Debug\netcoreapp2.1\WebAPI.Repository.AssemblyInfoInputs.cache
+C:\Users\fekel\source\repos\WebAPI.Repository\obj\Debug\netcoreapp2.1\WebAPI.Repository.AssemblyInfo.cs
+C:\Users\fekel\source\repos\WebAPI.Repository\obj\Debug\netcoreapp2.1\WebAPI.Repository.csproj.CoreCompileInputs.cache
+C:\Users\fekel\source\repos\WebAPI.Repository\obj\Debug\netcoreapp2.1\WebAPI.Repository.csproj.CopyComplete
+C:\Users\fekel\source\repos\WebAPI.Repository\obj\Debug\netcoreapp2.1\WebAPI.Repository.dll
+C:\Users\fekel\source\repos\WebAPI.Repository\obj\Debug\netcoreapp2.1\WebAPI.Repository.pdb
